@@ -1,5 +1,4 @@
-# gtav-scenarios
-Updated Full Scenario List
+# Updated Full Scenario List
 
 * Game Version: 1.0.1868.0
 
