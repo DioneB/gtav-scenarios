@@ -1,7 +1,7 @@
 # gtav-scenarios
 Updated Full Scenario List
 
-⋅⋅* Game Version: 1.0.1868.0
+* Game Version: 1.0.1868.0
 
 Scenario | Entity
 --- | ---
