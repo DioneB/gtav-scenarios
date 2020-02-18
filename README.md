@@ -1,7 +1,7 @@
 # Updated Full Scenario List
 
 * Game Version: 1.0.1868.0
-
+* - Info: If you're using FiveM some Scenarios don't will work, because FiveM not updated to Last Game Version/DLC
 Scenario | Entity
 --- | ---
 `WORLD_HUMAN_AA_COFFEE` | *Human*
