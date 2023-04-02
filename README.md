@@ -5,9 +5,9 @@
 
 Scenario | Entity
 --- | ---
-`StandIgnorePavement` | *Human*
-`Standing` | *Human*
 `Walk` | *Human*
+`Standing` | *Human*
+`StandIgnorePavement` | *Human*
 `Walk_Facility` | *Human*
 `WORLD_HUMAN_AA_COFFEE` | *Human*
 `WORLD_HUMAN_AA_SMOKE` | *Human*
